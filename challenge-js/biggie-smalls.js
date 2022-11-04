@@ -1,0 +1,5 @@
+var smalls = Number.NEGATIVE_INFINITY;
+var biggie = Number.POSITIVE_INFINITY;
+
+console.log(smalls)
+console.log(biggie)
